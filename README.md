@@ -20,8 +20,8 @@ This Python script provides a simple command-line interface for encrypting and d
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/AnonymousI0I/aes-encryption-decryption-tool
-    cd aes-encryption-decryption-tool
+    git clone https://github.com/AnonymousI0I/AES-Encryption-Decryption.git
+    cd AES-Encryption-Decryption
     ```
 
 2. **Install the required libraries**:
@@ -35,7 +35,7 @@ This Python script provides a simple command-line interface for encrypting and d
 1. **Run the script**:
 
     ```bash
-    python aes_encryption_decryption.py
+    python Encyption Decription Text.py
     ```
 
 2. **Follow the on-screen prompts to encrypt or decrypt text**.
